@@ -1,0 +1,23 @@
+@import "../font/web_fonts/fontleroybrown_regular_macroman/stylesheet.css";
+@import "../font/web_fonts/bebasneue_regular_macroman/stylesheet.css";
+
+body .container .brand, .aluna {
+	font-family: "fontleroybrownregular", Georgia, "Times New Roman", "Droid Serif", serif;
+	font-weight: normal;
+	fcolor: #333 !important;
+	font-size: 48px;
+}
+
+.navbar-inner {
+	background-image: none;
+	background: #2261D6;
+}
+.titulo{
+
+	font-family: "bebas_neueregular", Helvetica, Arial, Verdana, sans-serif;
+}
+
+.conteudo {
+	font-size: 120%;
+	line-height: 1.5;
+}

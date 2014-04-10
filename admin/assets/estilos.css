@@ -1,0 +1,31 @@
+.midia {
+	position: relative;
+}
+.midia .deleta-midia {
+	position: absolute;
+	bottom: 0;
+	right: 0;
+
+	background: #fff;
+	-webkit-box-shadow: 0 0 3px rgba(0,0,0, .6);
+	-moz-box-shadow: 0 0 3px rgba(0,0,0, .6);
+	box-shadow: 0 0 3px rgba(0,0,0, .6);
+
+	color: #444;
+	font-weight: bold;
+	display: block;
+	font-size: 18px;
+	padding: 0 5px;
+}
+
+.comentario {
+
+	border: 2px solid #2261D6;
+	padding: 12px;	
+	margin: 5px 0;
+	-webkit-box-shadow: 1px 1px 4px rgba(0,0,0, .7);
+	box-shadow: 1px 1px 4px rgba(0,0,0, .7); 
+	-webkit-border-radius: 10px;
+	border-radius: 10px; 
+	background: #fff;
+}
